@@ -1,4 +1,5 @@
 ## Ola!
+Me chamo Bruno Attina e sou professor no curso técnico em Desenvolvimento de Sistemas no Senai
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAttina&show_icons=true&theme=merko)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAttina&layout=compact&theme=merko)](https://github.com/BrunoAttina/github-readme-stats)
 
 <!--
